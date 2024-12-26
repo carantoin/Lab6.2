@@ -1,0 +1,14 @@
+C:\Users\uZer\source\repos\Bibl\Bibl\obj\Debug\net8.0\Bibl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uZer\source\repos\Bibl\Bibl\obj\Debug\net8.0\Bibl.AssemblyInfoInputs.cache
+C:\Users\uZer\source\repos\Bibl\Bibl\obj\Debug\net8.0\Bibl.AssemblyInfo.cs
+C:\Users\uZer\source\repos\Bibl\Bibl\obj\Debug\net8.0\Bibl.csproj.CoreCompileInputs.cache
+C:\Users\uZer\source\repos\Bibl\Bibl\bin\Debug\net8.0\Bibl.exe
+C:\Users\uZer\source\repos\Bibl\Bibl\bin\Debug\net8.0\Bibl.deps.json
+C:\Users\uZer\source\repos\Bibl\Bibl\bin\Debug\net8.0\Bibl.runtimeconfig.json
+C:\Users\uZer\source\repos\Bibl\Bibl\bin\Debug\net8.0\Bibl.dll
+C:\Users\uZer\source\repos\Bibl\Bibl\bin\Debug\net8.0\Bibl.pdb
+C:\Users\uZer\source\repos\Bibl\Bibl\obj\Debug\net8.0\Bibl.dll
+C:\Users\uZer\source\repos\Bibl\Bibl\obj\Debug\net8.0\refint\Bibl.dll
+C:\Users\uZer\source\repos\Bibl\Bibl\obj\Debug\net8.0\Bibl.pdb
+C:\Users\uZer\source\repos\Bibl\Bibl\obj\Debug\net8.0\Bibl.genruntimeconfig.cache
+C:\Users\uZer\source\repos\Bibl\Bibl\obj\Debug\net8.0\ref\Bibl.dll
